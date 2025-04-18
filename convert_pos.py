@@ -73,7 +73,7 @@ if __name__ == "__main__":
 
 
 
-
+	#this has to be also edited.... 
 	des_to_footprint = { "diode": "D_SOD-123", 
 											"r220ohm":"R_0603_1608Metric",
 											"r10kohm":"R_0603_1608Metric",
@@ -86,6 +86,8 @@ if __name__ == "__main__":
 											"pinsingle":"PinHeader_1x01_P2.54mm_Vertical",
            
            }
+ 
+	#please enter your prefered component idenfier here
 	des_to_comment ={"diode": "C908230", 
 											"r220ohm":"C176129",
 											"r10kohm":"C15401",
